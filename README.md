@@ -1,4 +1,4 @@
-## 📌 Who am I?
+## 📌 Who Am I ?
 
 <!--
 **DoctorVitus/DoctorVitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* My Research Area is Energy System Modeling
+* Fuel Cell
+* Battery 
