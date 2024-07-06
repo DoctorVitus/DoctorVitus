@@ -1,4 +1,4 @@
-## 📌 Who Am I ?
+## 🎓 Academic Profile
 
 <!--
 **DoctorVitus/DoctorVitus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am a master's student at the Renewable Conversion Laboratory (RECL).
+Hello! I am a master's student at the Renewable Energy Conversion Laboratory (RECL). Feel free to contact me via the email below
 
+ - 📚 Major : Dept of Mechanical Engineering
  - 🔭 Research Area: Fuel Cells & Batteries
- - 🏢 Affiliation: Renewable Conversion Laboratory (RECL), Seoul National University (SNU)
- - 📫 Contact: heejun0302@snu.ac.kr
+ - 🏢 Affiliation: Renewable Conversion Laboratory (RECL)
+ - 📫 Contact: heejun0302@snu.ac.kr 
