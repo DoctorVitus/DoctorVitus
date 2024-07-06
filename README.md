@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* Ms Student in Renewable Conversion Laboratory(RECL, SNU)
-* My Research Area is Fuel Cell & Battery
-* Contact : heejun0302@snu.ac.kr
+Hello! I am a master's student at the Renewable Conversion Laboratory (RECL).
+
+🔭 Research Area: Fuel Cells & Batteries
+🏢 Affiliation: Renewable Conversion Laboratory (RECL), Seoul National University (SNU)
+📫 Contact: heejun0302@snu.ac.kr
