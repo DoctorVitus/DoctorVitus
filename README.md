@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* My Research Area is Energy System Modeling
-* Fuel Cell
-* Battery 
+
+* Ms Student in Renewable Conversion Laboratory(RECL, SNU)
+* My Research Area is Fuel Cell & Battery
+* Contact : heejun0302@snu.ac.kr
