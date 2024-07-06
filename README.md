@@ -19,5 +19,5 @@ Hello! I am a master's student at the Renewable Energy Conversion Laboratory (RE
 
  - 📚 Major : Dept of Mechanical Engineering
  - 🔭 Research Area: Fuel Cells & Batteries
- - 🏢 Affiliation: Renewable Conversion Laboratory (RECL)
+ - 🏢 Affiliation: Renewable Energy Conversion Laboratory (RECL)
  - 📫 Contact: heejun0302@snu.ac.kr 
