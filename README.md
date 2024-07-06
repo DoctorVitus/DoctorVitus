@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span style="font-size: 1.2em;">Hello! I am a master's student at the Renewable Energy Conversion Laboratory (RECL). Feel free to contact me via the email below
+Hello! I am a master's student at the Renewable Energy Conversion Laboratory (RECL). Feel free to contact me via the email below
 
  - 📚 Major : Dept of Mechanical Engineering
  - 🔭 Research Area: Fuel Cells & Batteries
