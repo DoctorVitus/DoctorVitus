@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello! I am a master's student at the Renewable Energy Conversion Laboratory (RECL). Feel free to contact me via the email below.
 
- - 📚 Major : Dept of Mechanical Engineering
- - 🔭 Research Area: Fuel Cells & Batteries
- - 🏢 Affiliation: Renewable Energy Conversion Laboratory (RECL)
- - 📫 Contact: heejun0302@snu.ac.kr 
+ - Major : Dept of Mechanical Engineering
+ - Research Area: Fuel Cells & Batteries
+ - Affiliation: Renewable Energy Conversion Laboratory (RECL)
+ - Contact: heejun0302@snu.ac.kr 
